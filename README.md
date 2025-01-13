@@ -1,16 +1,42 @@
-## Hi there 👋
+---
 
-<!--
-**zrpx/zrpx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hello, I'm **@zrpx**  
 
-Here are some ideas to get you started:
+✨ **Side account of [@r-hn](https://github.com/r-hn)** ✨  
+🎯 **Coding is my playground, and I’m here to build, break, and innovate.**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👀 What keeps me coding:  
+🔍 **The thrill of solving complex problems.**  
+🎨 **Turning ideas into functional, beautiful code.**  
+🔥 **Because why not?**  
+
+---
+
+### 🌱 Always learning:  
+🌌 **New tech, new stacks, and new possibilities.**  
+🔧 **Sharpening my skills to write cleaner, smarter, faster code.**  
+
+---
+
+### 💞️ Let’s create magic:  
+🤝 **Looking for like-minded developers who live for the code.**  
+🌟 **Passion-driven projects over paycheck-driven ones.**  
+
+---
+
+### 📫 Ping me here:  
+📧 **skrehangamer@gmail.com**  
+🌐 **skrehan.in**  
+
+---
+
+### ⚡ Fun fact:  
+🚀 **Code is my hobby, my therapy, and my adrenaline rush all in one.**  
+
+---
+
+> Building today, experimenting tomorrow, and evolving always. Let's make it epic. 🚀💻  
+
+---
